@@ -1,0 +1,1 @@
+Paper 1 (LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation): https://colab.research.google.com/drive/1fbD24g8VOxE6PqH-8IYerzDCpZzRrFkp?usp=sharing

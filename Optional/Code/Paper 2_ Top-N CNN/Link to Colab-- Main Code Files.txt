@@ -1,0 +1,1 @@
+Paper 2 (Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding,): https://colab.research.google.com/drive/1NaFYObCIfrtXucBDCq7a_m3gNXgi2yNi?usp=sharing
