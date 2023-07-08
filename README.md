@@ -1,1 +1,1 @@
-# Light-Graph-Convolutional-Network
+# Light Graph Convolutional Network
